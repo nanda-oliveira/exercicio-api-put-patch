@@ -1,0 +1,25 @@
+{
+  "name": "exercicio-api-put-patch",
+  "version": "1.0.0",
+  "description": "Entrega atividade semana 10 {reprograma} API PUT PATCH",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanda-oliveira/exercicio-api-put-patch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanda-oliveira/exercicio-api-put-patch/issues"
+  },
+  "homepage": "https://github.com/nanda-oliveira/exercicio-api-put-patch#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.5"
+  }
+}
